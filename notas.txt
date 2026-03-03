@@ -1,1 +1,2 @@
 Aprendiendo Git
+Git es potente
