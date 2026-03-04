@@ -1,2 +1,2 @@
-Línea modificada desde Main
+Línea modificada desde la rama conflicto
 Git es potente
