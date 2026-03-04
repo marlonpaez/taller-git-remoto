@@ -1,2 +1,2 @@
-Aprendiendo Git
+Línea modificada desde Main
 Git es potente
